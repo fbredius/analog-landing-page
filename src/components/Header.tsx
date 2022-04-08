@@ -59,10 +59,10 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="#"
+                href="https://apps.apple.com/nl/app/analogapp/id1603989029"
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Call to action
+                Download now on iOS!
               </a>
             </div>
           </nav>

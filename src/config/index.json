@@ -1,56 +1,47 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "AnalogApp",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Hoe werkt AnalogApp?",
       "href": "product"
     },
     {
-      "name": "Features",
-      "href": "features"
-    },
-
-    {
-      "name": "Pricing",
-      "href": "pricing"
-    },
-    {
-      "name": "About",
+      "name": "Over ons",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
+    "text": "Download now!",
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "AnalogApp",
+    "subtitle": "Jouw analoge camera.",
+    "description": "Maak foto's met de AnalogApp, en krijg ze thuisgestuurd op Fuji fotopapier.",
+    "img": "/assets/images/happyTeam.jpg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Download",
+      "href": "https://apps.apple.com/nl/app/analogapp/id1603989029"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Email ons",
+      "href": "mailto:analogcamapp@gmail.com?subject=I like AnalogApp!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Hoe werkt AnalogApp?",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Kies je filter",
+        "description": "AnalogApp heeft verschillende filters gecreeerd, zodat jij altijd de mooiste foto's kan maken. Kies een filter voor je rolletje en je bent klaar om foto's te maken!",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Schiet je rolletje vol",
+        "description": "Er zitten 20 foto's in een fotorolletje op je AnalogApp camera. Zodra je rolletje vol is, krijg je een betaalscherm te zien. Vul je gegevens in en je foto's worden thuisgestuurd!",
         "img": "/assets/images/product2.jpg"
       }
     ]
@@ -145,9 +136,10 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "#",
+      "twitter": "#",
+      "linkedin": "#",
+      "instagram": "https://www.instagram.com/the.analog.app/"
     }
   }
 }

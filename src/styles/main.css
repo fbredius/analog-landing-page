@@ -4,20 +4,27 @@
 
 
 :root {
-  --color-primary: #ec4755;
-  --color-secondary: #a12c34;
+  --color-primary: #542e08;
+  --color-secondary: #805b2b;
   --color-tertiaty: #99a0a3;
 }
 
-a { 
-  @apply text-red-700;
+a {
+  font-weight: 700;
+  color: #542e08;
 }
 
 a:hover {
   @apply border-b-2 border-red-700;
 }
 
+.text-primary {
+  color: #542e08;
+}
 
+.bg-primary {
+  background-color: #542e08;
+}
 
 .content p {
   @apply my-6;
