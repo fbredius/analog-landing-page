@@ -115,24 +115,19 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Terms and Conditions",
+        "href": "https://www.notion.so/ac-app/Terms-and-Conditions-d20ba2cda37946fca28205b98fa0ab29",
+        "content": "Terms and Conditions"
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Privacy Policy",
+        "href": "https://www.notion.so/ac-app/Privacy-Policy-8e9c4c6cf1d64ee59a474de3e228d532",
+        "content": "Privacy Policy"
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "FAQ",
+        "href": "https://www.notion.so/ac-app/FAQ-349de63c30374464bdca5d58869d0876",
+        "content": "FAQ"
       }
     ],
     "socialMedia": {
