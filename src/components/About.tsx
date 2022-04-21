@@ -64,7 +64,7 @@ const About = () => {
                     <div className={`w-full sm:w-1/2 p-6`}>
                         <img
                             className="h-6/6"
-                            src="/assets/images/product1.jpg"
+                            src="/assets/images/camerahand.jpg"
                             alt="Title"
                         />
                     </div>
@@ -74,7 +74,7 @@ const About = () => {
                     <div className={`w-full sm:w-1/2 p-6`}>
                         <img
                             className="h-6/6"
-                            src="/assets/images/product2.jpg"
+                            src="/assets/images/graphic.jpg"
                             alt="#"
                         />
                     </div>
