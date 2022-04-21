@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'React landing page',
-  title: 'React landing page template 2021',
-  description: 'Production ready plug n play landing page!',
+  site_name: 'AnalogApp Landing Page',
+  title: 'AnalogApp',
+  description: 'Your digital analog camera. Create memories that you can actually touch.',
   locale: 'en',
 };
