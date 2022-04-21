@@ -62,7 +62,7 @@ const Menu = () => {
                 href="https://apps.apple.com/nl/app/analogapp/id1603989029"
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Download now on iOS!
+                Download nu op iOS!
               </a>
             </div>
           </nav>

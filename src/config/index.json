@@ -9,12 +9,12 @@
       "href": "product"
     },
     {
-      "name": "Over ons",
+      "name": "Over AnalogApp",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Download now!",
+    "text": "Download nu!",
     "href": "#"
   },
   "mainHero": {
@@ -23,12 +23,16 @@
     "description": "Maak foto's met de AnalogApp, en krijg ze thuisgestuurd op Fuji fotopapier.",
     "img": "/assets/images/happyTeam.jpg",
     "primaryAction": {
-      "text": "Download",
+      "text": "Download op iOS",
       "href": "https://apps.apple.com/nl/app/analogapp/id1603989029"
     },
     "secondaryAction": {
       "text": "Email ons",
       "href": "mailto:analogcamapp@gmail.com?subject=I like AnalogApp!"
+    },
+    "thirdAction": {
+      "text": "Download op Android",
+      "href": "https://forms.gle/AydUMVn4fhhNkV4m8"
     }
   },
   "product": {
@@ -41,7 +45,7 @@
       },
       {
         "title": "Schiet je rolletje vol",
-        "description": "Er zitten 20 foto's in een fotorolletje op je AnalogApp camera. Zodra je rolletje vol is, krijg je een betaalscherm te zien. Vul je gegevens in en je foto's worden thuisgestuurd!",
+        "description": "Er zitten 20 foto's in een fotorolletje op je AnalogApp camera. Wanneer je een foto hebt genomen, kan je hem niet meer terugzien. Zodra je rolletje vol is, worden je foto's ontwikkeld en thuisgestuurd!",
         "img": "/assets/images/product2.jpg"
       }
     ]
